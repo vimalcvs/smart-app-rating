@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cm_dp_12">12dp</dimen>
+    <dimen name="cm_dp_16">16dp</dimen>
+    <dimen name="cm_dp_24">24dp</dimen>
+    <dimen name="cm_dp_3">3dp</dimen>
+    <dimen name="cm_dp_32">32dp</dimen>
+    <dimen name="cm_dp_46">46dp</dimen>
+    <dimen name="cm_dp_50">50dp</dimen>
+    <dimen name="cm_dp_8">8dp</dimen>
+    <dimen name="cm_sp_10">10sp</dimen>
+    <dimen name="cm_sp_16">16sp</dimen>
+    <dimen name="cm_sp_18">18sp</dimen>
+    <dimen name="cm_sp_19">19sp</dimen>
+    <dimen name="cm_sp_24">24sp</dimen>
+</resources>

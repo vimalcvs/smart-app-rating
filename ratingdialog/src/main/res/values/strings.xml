@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lib_rate_btn_go_market">Rate on Google play</string>
+    <string name="lib_rate_btn_rate">Rate</string>
+    <string name="lib_rate_dialog_tip">We would be very grateful if you can rate us.</string>
+    <string name="lib_rate_dialog_title">Thank you for your support!</string>
+    <string name="lib_rate_five_stars_confirm_tip">Other users will benefit from your review. \nPlease leave your review on Google Play.</string>
+    <string name="lib_rate_five_stars_tip">The best we can get</string>
+    <string name="lib_rate_leave_feedback">Your feedback is welcome.</string>
+    <string name="lib_rate_like_you">Much appreciated!</string>
+    <string name="lib_rate_oh_no">Oh, we\'re sorry…</string>
+    <string name="lib_rate_roboto_medium">sans-serif-medium</string>
+    <string name="lib_rate_roboto_regular">sans-serif</string>
+    <string name="lib_rate_thanks_feedback">Thanks for your feedback.</string>
+</resources>
